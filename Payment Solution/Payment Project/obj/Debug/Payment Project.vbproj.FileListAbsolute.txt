@@ -1,0 +1,47 @@
+E:\VB2017\Chap05\Payment Solution\Payment Project\bin\Debug\Payment Project.exe.config
+E:\VB2017\Chap05\Payment Solution\Payment Project\bin\Debug\Payment Project.exe
+E:\VB2017\Chap05\Payment Solution\Payment Project\bin\Debug\Payment Project.pdb
+E:\VB2017\Chap05\Payment Solution\Payment Project\bin\Debug\Payment Project.xml
+E:\VB2017\Chap05\Payment Solution\Payment Project\obj\Debug\Payment Project.vbprojResolveAssemblyReference.cache
+E:\VB2017\Chap05\Payment Solution\Payment Project\obj\Debug\Payment_Project.frmMain.resources
+E:\VB2017\Chap05\Payment Solution\Payment Project\obj\Debug\Payment_Project.Resources.resources
+E:\VB2017\Chap05\Payment Solution\Payment Project\obj\Debug\Payment Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap05\Payment Solution\Payment Project\obj\Debug\Payment Project.exe
+E:\VB2017\Chap05\Payment Solution\Payment Project\obj\Debug\Payment Project.xml
+E:\VB2017\Chap05\Payment Solution\Payment Project\obj\Debug\Payment Project.pdb
+C:\VB2019 - solutions\Chap05\Payment Solution\Payment Project\bin\Debug\Payment Project.exe.config
+C:\VB2019 - solutions\Chap05\Payment Solution\Payment Project\bin\Debug\Payment Project.exe
+C:\VB2019 - solutions\Chap05\Payment Solution\Payment Project\bin\Debug\Payment Project.pdb
+C:\VB2019 - solutions\Chap05\Payment Solution\Payment Project\bin\Debug\Payment Project.xml
+C:\VB2019 - solutions\Chap05\Payment Solution\Payment Project\obj\Debug\Payment_Project.frmMain.resources
+C:\VB2019 - solutions\Chap05\Payment Solution\Payment Project\obj\Debug\Payment_Project.Resources.resources
+C:\VB2019 - solutions\Chap05\Payment Solution\Payment Project\obj\Debug\Payment Project.vbproj.GenerateResource.cache
+C:\VB2019 - solutions\Chap05\Payment Solution\Payment Project\obj\Debug\Payment Project.vbproj.CoreCompileInputs.cache
+C:\VB2019 - solutions\Chap05\Payment Solution\Payment Project\obj\Debug\Payment Project.exe
+C:\VB2019 - solutions\Chap05\Payment Solution\Payment Project\obj\Debug\Payment Project.xml
+C:\VB2019 - solutions\Chap05\Payment Solution\Payment Project\obj\Debug\Payment Project.pdb
+C:\VB2019\Chap05\Payment Solution\Payment Project\bin\Debug\Payment Project.exe.config
+C:\VB2019\Chap05\Payment Solution\Payment Project\bin\Debug\Payment Project.exe
+C:\VB2019\Chap05\Payment Solution\Payment Project\bin\Debug\Payment Project.pdb
+C:\VB2019\Chap05\Payment Solution\Payment Project\bin\Debug\Payment Project.xml
+C:\VB2019\Chap05\Payment Solution\Payment Project\obj\Debug\Payment Project.vbprojAssemblyReference.cache
+C:\VB2019\Chap05\Payment Solution\Payment Project\obj\Debug\Payment_Project.frmMain.resources
+C:\VB2019\Chap05\Payment Solution\Payment Project\obj\Debug\Payment_Project.Resources.resources
+C:\VB2019\Chap05\Payment Solution\Payment Project\obj\Debug\Payment Project.vbproj.GenerateResource.cache
+C:\VB2019\Chap05\Payment Solution\Payment Project\obj\Debug\Payment Project.vbproj.CoreCompileInputs.cache
+C:\VB2019\Chap05\Payment Solution\Payment Project\obj\Debug\Payment Project.exe
+C:\VB2019\Chap05\Payment Solution\Payment Project\obj\Debug\Payment Project.xml
+C:\VB2019\Chap05\Payment Solution\Payment Project\obj\Debug\Payment Project.pdb
+C:\Users\Skeletor\Documents\Project in Github\Payment Solution\Payment Solution\Payment Project\bin\Debug\Payment Project.exe.config
+C:\Users\Skeletor\Documents\Project in Github\Payment Solution\Payment Solution\Payment Project\bin\Debug\Payment Project.exe
+C:\Users\Skeletor\Documents\Project in Github\Payment Solution\Payment Solution\Payment Project\bin\Debug\Payment Project.pdb
+C:\Users\Skeletor\Documents\Project in Github\Payment Solution\Payment Solution\Payment Project\bin\Debug\Payment Project.xml
+C:\Users\Skeletor\Documents\Project in Github\Payment Solution\Payment Solution\Payment Project\obj\Debug\Payment Project.vbproj.AssemblyReference.cache
+C:\Users\Skeletor\Documents\Project in Github\Payment Solution\Payment Solution\Payment Project\obj\Debug\Payment Project.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Skeletor\Documents\Project in Github\Payment Solution\Payment Solution\Payment Project\obj\Debug\Payment_Project.frmMain.resources
+C:\Users\Skeletor\Documents\Project in Github\Payment Solution\Payment Solution\Payment Project\obj\Debug\Payment_Project.Resources.resources
+C:\Users\Skeletor\Documents\Project in Github\Payment Solution\Payment Solution\Payment Project\obj\Debug\Payment Project.vbproj.GenerateResource.cache
+C:\Users\Skeletor\Documents\Project in Github\Payment Solution\Payment Solution\Payment Project\obj\Debug\Payment Project.vbproj.CoreCompileInputs.cache
+C:\Users\Skeletor\Documents\Project in Github\Payment Solution\Payment Solution\Payment Project\obj\Debug\Payment Project.exe
+C:\Users\Skeletor\Documents\Project in Github\Payment Solution\Payment Solution\Payment Project\obj\Debug\Payment Project.xml
+C:\Users\Skeletor\Documents\Project in Github\Payment Solution\Payment Solution\Payment Project\obj\Debug\Payment Project.pdb
